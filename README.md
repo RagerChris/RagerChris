@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/82936062?v=4" alt="Profile Picture" width="200">
+  <img src="https://img.freepik.com/free-vector/creative-watercolor-galaxy-background_79603-1388.jpg" alt="Profile Picture" width="200">
 </p>
 
 <p align="center">
